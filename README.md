@@ -1,3 +1,9 @@
+
+
+### This code is associated with the paper from Achiro et al., "Neural activity in cortico-basal ganglia circuits of juvenile songbirds encodes performance during goal-directed learning". eLife, 2017. http://dx.doi.org/10.7554/eLife.26973
+
+
+
 # Acoustic Similarity
 
 We created custom software in MATLAB using many features created for Sound Analysis Pro (Tchernichovski, O. 2000 _Anim Behav._ 59:1167-1176) in order to 
